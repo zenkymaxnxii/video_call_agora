@@ -1,0 +1,63 @@
+PODS:
+  - agora_rtc_engine (0.0.1):
+    - AgoraIrisRTC_macOS (= 4.1.0-rc.2)
+    - AgoraRtcEngine_macOS (= 4.1.0)
+    - FlutterMacOS
+  - AgoraIrisEventFlutter_macOS (2.0.0)
+  - AgoraIrisRTC_macOS (4.1.0-rc.2)
+  - AgoraRtcEngine_macOS (4.1.0):
+    - AgoraRtcEngine_macOS/AIAEC (= 4.1.0)
+    - AgoraRtcEngine_macOS/AINS (= 4.1.0)
+    - AgoraRtcEngine_macOS/AudioBeauty (= 4.1.0)
+    - AgoraRtcEngine_macOS/ClearVision (= 4.1.0)
+    - AgoraRtcEngine_macOS/ContentInspect (= 4.1.0)
+    - AgoraRtcEngine_macOS/DRM (= 4.1.0)
+    - AgoraRtcEngine_macOS/RtcBasic (= 4.1.0)
+    - AgoraRtcEngine_macOS/SpatialAudio (= 4.1.0)
+    - AgoraRtcEngine_macOS/VirtualBackground (= 4.1.0)
+    - AgoraRtcEngine_macOS/VQA (= 4.1.0)
+  - AgoraRtcEngine_macOS/AIAEC (4.1.0)
+  - AgoraRtcEngine_macOS/AINS (4.1.0)
+  - AgoraRtcEngine_macOS/AudioBeauty (4.1.0)
+  - AgoraRtcEngine_macOS/ClearVision (4.1.0)
+  - AgoraRtcEngine_macOS/ContentInspect (4.1.0)
+  - AgoraRtcEngine_macOS/DRM (4.1.0)
+  - AgoraRtcEngine_macOS/RtcBasic (4.1.0)
+  - AgoraRtcEngine_macOS/SpatialAudio (4.1.0)
+  - AgoraRtcEngine_macOS/VirtualBackground (4.1.0)
+  - AgoraRtcEngine_macOS/VQA (4.1.0)
+  - FlutterMacOS (1.0.0)
+  - iris_event (0.0.1):
+    - AgoraIrisEventFlutter_macOS (= 2.0.0)
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `Flutter/ephemeral/.symlinks/plugins/agora_rtc_engine/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - iris_event (from `Flutter/ephemeral/.symlinks/plugins/iris_event/macos`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraIrisEventFlutter_macOS
+    - AgoraIrisRTC_macOS
+    - AgoraRtcEngine_macOS
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: Flutter/ephemeral/.symlinks/plugins/agora_rtc_engine/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  iris_event:
+    :path: Flutter/ephemeral/.symlinks/plugins/iris_event/macos
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: 66e8168cc1facc5fffd751021e80fee9031a7f33
+  AgoraIrisEventFlutter_macOS: 5e70ca5f37ccae44efcf8cc0ebd616b60f513263
+  AgoraIrisRTC_macOS: 5bed4136e6f88e54ea3472857a01154fd409dc79
+  AgoraRtcEngine_macOS: 35a0ad69ed2d5fa0632d751f41b09c5c9538ee59
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  iris_event: f12d7c4b6ee729c4dbd394cd374d9ddb4db56ad4
+
+PODFILE CHECKSUM: 353c8bcc5d5b0994e508d035b5431cfe18c1dea7
+
+COCOAPODS: 1.11.3
